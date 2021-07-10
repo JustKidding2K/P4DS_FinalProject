@@ -1,4 +1,4 @@
-Country,Counts
+Name,Counts
 Vietnam,474
 Unknown,40
 Thailand,17
@@ -9,20 +9,20 @@ China,7
 USA,7
 Singapore,6
 India,5
-Philippines,4
 "Taipei, Taiwan",4
-Malaysia,3
+Philippines,4
 United Kingdom,3
-"Hong Kong, China",3
 France,3
-Russia,2
+"Hong Kong, China",3
+Malaysia,3
 Saudi Arabia,2
-Greece,2
 Netherlands,2
-Switzerland,1
+Greece,2
+Russia,2
 Denmark,1
-Laos,1
-Spain,1
 Germany,1
 Austria,1
+Spain,1
+Laos,1
 Canada,1
+Switzerland,1
